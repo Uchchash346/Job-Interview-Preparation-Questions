@@ -1,5 +1,6 @@
 # Job-Interview-Preparation-Questions
 ## This repository for those people who want to do a job as an Web Developer. I added some Javscript questions with answers. I will add more questions in this repository. 
+## Source Link: https://www.guru99.com/javascript-interview-questions-answers.html
 
 #### 1. What is JavaScript?
 Ans:JavaScript is a client-side and server-side scripting language inserted into HTML pages and is understood by web browsers. JavaScript is also an Object-based Programming language
