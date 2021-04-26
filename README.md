@@ -10,8 +10,8 @@ Ans:Java is a complete programming language. In contrast, JavaScript is a coded 
 #### 3. What are JavaScript Data Types?
 Ans: Following are the JavaScript Data types:Number,String,Boolean,Object,Undefined
 
-4. What is the use of isNaN function?
+#### 4. What is the use of isNaN function?
 Ans:isNan function returns true if the argument is not a number; otherwise, it is false.
 
-5. Which is faster between JavaScript and an ASP script?
+#### 5. Which is faster between JavaScript and an ASP script?
 Ans:JavaScript is faster. JavaScript is a client-side language,, and thus it does not need the assistance of the webserver to execute. On the other hand, ASP is a server-side language and hence is always slower than JavaScript. Javascript now is also a server-side language (nodejs).
